@@ -1,0 +1,29 @@
+{
+  "name": "w2me",
+  "version": "1.0.0",
+  "description": "walk buddy interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerunchained/w2me.git"
+  },
+  "keywords": [
+    "w2me"
+  ],
+  "author": "KG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developerunchained/w2me/issues"
+  },
+  "homepage": "https://github.com/developerunchained/w2me#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "d3": "^3.0.0",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1"
+  }
+}
